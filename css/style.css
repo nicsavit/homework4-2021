@@ -128,11 +128,16 @@ th {
 }
 
 footer{
-  min-height: 75px;
   width:100%;
-  position: sticky;
+  color: #FFFFFF;
   background:#000000;
   text-align:center;
-  color: #FFFFFF;
+  min-height: 75px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  
+  
+  
   
 }
